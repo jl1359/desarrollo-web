@@ -1,5 +1,5 @@
 # desarrollo-web
 curso para el desarrollo web
 
-##descripcion
+## descripcion
 aprender desarrollo web desde cero
